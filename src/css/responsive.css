@@ -1,0 +1,31 @@
+
+
+@media (max-width: 576px) {
+    
+    .card {
+        
+        width: 90%; 
+        max-width: 100%;
+        padding: 12px; 
+        box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.15); 
+    }
+
+    .card-banner {
+       
+        padding: 8px; 
+        border-radius: 12px;
+    }
+
+    .card-body h1 {
+        font-size: 1.4rem; 
+    }
+
+    .card-body h2 {
+        font-size: 1.15rem; 
+    }
+
+    .card-body p {
+        font-size: 0.95rem;
+        line-height: 1.4; 
+    }
+}
