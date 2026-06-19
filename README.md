@@ -7,7 +7,7 @@ O grande objetivo aqui foi aprender a dar "pequenos passos" na programação par
 
 ---
 
-💡 O que eu aprendi realizando este projeto?
+O que eu aprendi realizando este projeto?
 
 Construir esse card me fez entender que o desenvolvimento web vai muito além de apenas "fazer as coisas aparecerem na tela". Eu pude praticar conceitos fundamentais que todo desenvolvedor front-end precisa dominar:
 
@@ -31,14 +31,14 @@ Isso fez com que o fundo ganhasse uma animação suave que move as cores continu
 Entendi como controlar o comportamento das imagens usando `max-width: 100%` e `object-fit: cover` para garantir que o banner do card se adapte bem e não quebre em telas menores, além de aplicar `border-radius` para deixar as bordas arredondadas e elegantes.
 
 
- 🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 
 * **HTML5** (Estruturação semântica)
 * **CSS3** (Estilização, Flexbox, Animações e Efeitos de Sombra/Shadow)
 * Imagem gerada por Inteligência Artificial (Gemini)---
 
 
-👤 Autor
+ Autor
 
 Desenvolvido com muito orgulho e dedicação por mim **Vitor Maia**. 
 *Se quiser acompanhar minha evolução no mundo da tecnologia, sintam-se à vontade para se conectarem comigo para fazermos network!*
